@@ -223,6 +223,8 @@ main { display: grid;
     box-sizing: border-box;
   }
 
+  .item-1 {background-image: none;}
+
   .bold-white-daniel {display: inline-block;
                         width: 200px;}
 
